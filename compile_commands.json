@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/william/VSProjects/Snake",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -o CMakeFiles/Snake.dir/src/game.cpp.o -c /Users/william/VSProjects/Snake/src/game.cpp",
+  "file": "/Users/william/VSProjects/Snake/src/game.cpp",
+  "output": "CMakeFiles/Snake.dir/src/game.cpp.o"
+},
+{
+  "directory": "/Users/william/VSProjects/Snake",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -o CMakeFiles/Snake.dir/src/input.cpp.o -c /Users/william/VSProjects/Snake/src/input.cpp",
+  "file": "/Users/william/VSProjects/Snake/src/input.cpp",
+  "output": "CMakeFiles/Snake.dir/src/input.cpp.o"
+},
+{
+  "directory": "/Users/william/VSProjects/Snake",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -o CMakeFiles/Snake.dir/src/main.cpp.o -c /Users/william/VSProjects/Snake/src/main.cpp",
+  "file": "/Users/william/VSProjects/Snake/src/main.cpp",
+  "output": "CMakeFiles/Snake.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/william/VSProjects/Snake",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -o CMakeFiles/Snake.dir/src/menu.cpp.o -c /Users/william/VSProjects/Snake/src/menu.cpp",
+  "file": "/Users/william/VSProjects/Snake/src/menu.cpp",
+  "output": "CMakeFiles/Snake.dir/src/menu.cpp.o"
+}
+]

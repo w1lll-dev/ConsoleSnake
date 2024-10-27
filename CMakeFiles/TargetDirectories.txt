@@ -1,0 +1,3 @@
+/Users/william/VSProjects/Snake/CMakeFiles/Snake.dir
+/Users/william/VSProjects/Snake/CMakeFiles/edit_cache.dir
+/Users/william/VSProjects/Snake/CMakeFiles/rebuild_cache.dir
